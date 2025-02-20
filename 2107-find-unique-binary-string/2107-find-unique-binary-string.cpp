@@ -1,7 +1,7 @@
 class Solution {
 public:
 string result = "";
-    bool solve(string temp, unordered_map<string,int>vis, int n){
+    bool solve(string &temp, unordered_map<string,int>vis, int n){
         if(temp.size() == n){
             cout<<temp<<endl;
             if(vis[temp] == 0){
@@ -10,14 +10,16 @@ string result = "";
             }
             return false;
         }
-
-        if(solve(temp + '0',vis,n) == true){
+        temp.push_back('0');
+        if(solve(temp,vis,n) == true){
+            return true;
+        } 
+        temp.pop_back();
+          temp.push_back('1');
+         if(solve(temp,vis,n) == true){
             return true;
         }
-      
-         if(solve(temp + '1',vis,n) == true){
-            return true;
-        }
+          temp.pop_back();
 
         return false;
     }
