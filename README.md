@@ -26,5 +26,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
