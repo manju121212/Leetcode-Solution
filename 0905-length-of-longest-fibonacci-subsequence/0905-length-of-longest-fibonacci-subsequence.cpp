@@ -1,14 +1,14 @@
-#include <iostream>
-#include <vector>
-#include <unordered_map>
-using namespace std;
+
 
 class Solution {
 public:
     void solve(int k, int j, unordered_map<int, int>& mpp, vector<int>& arr, int& res, int& maxLength) {
+        if(k<0 || j<0){
+            return ;
+        }
         int value = arr[k] - arr[j];
 
-        if (mpp.find(value) != mpp.end() && mpp[value] < j) {
+        if (mpp.find(value) != mpp.end()  && k>j && j>mpp[value]  ) {
             res += 1;
             maxLength = max(maxLength, res);
             solve(j, mpp[value], mpp, arr, res, maxLength);
