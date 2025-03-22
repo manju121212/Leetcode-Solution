@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manju121212/Leetcode-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manju121212/Leetcode-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Backtracking
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2107-find-unique-binary-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manju121212/Leetcode-Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manju121212/Leetcode-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/manju121212/Leetcode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manju121212/Leetcode-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manju121212/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/manju121212/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -136,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manju121212/Leetcode-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manju121212/Leetcode-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
