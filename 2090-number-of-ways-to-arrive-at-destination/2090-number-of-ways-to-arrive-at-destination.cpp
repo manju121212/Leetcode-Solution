@@ -1,51 +1,54 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    int countPaths(int n, vector<vector<int>>& roads) {
+    int solve(unordered_map<int, list<pair<int, int>>>& adj, vector<long long>& dist, int n) {
         const int MOD = 1e9 + 7;
+
+        dist[0] = 0;
+        set<pair<long long, int>> s;
+        s.insert({0, 0});
         
-      
+        vector<int> min_ways_dest(n, 0);
+        min_ways_dest[0] = 1;
+
+        while (!s.empty()) {
+            auto top = *(s.begin());
+            int node = top.second;
+            long long w = top.first;
+            s.erase(s.begin());
+
+            for (auto it : adj[node]) {
+                int nextNode = it.first;
+                long long newTime = dist[node] + it.second;
+
+                // Found a shorter path
+                if (newTime < dist[nextNode]) {
+                    auto record = s.find({dist[nextNode], nextNode});
+                    if (record != s.end()) s.erase(record);
+
+                    dist[nextNode] = newTime;
+                    min_ways_dest[nextNode] = min_ways_dest[node]; // Inherit path count
+                    s.insert({dist[nextNode], nextNode});
+                }
+                // If another shortest path is found, add to ways count
+                else if (newTime == dist[nextNode]) {
+                    min_ways_dest[nextNode] = (min_ways_dest[nextNode] + min_ways_dest[node]) % MOD;
+                }
+            }
+        }
+
+        return min_ways_dest[n - 1];
+    }
+
+    int countPaths(int n, vector<vector<int>>& roads) {
         unordered_map<int, list<pair<int, int>>> adj;
+
         for (auto& road : roads) {
             int u = road[0], v = road[1], w = road[2];
             adj[u].push_back({v, w});
             adj[v].push_back({u, w});
         }
 
-       
         vector<long long> dist(n, LLONG_MAX);
-       
-        vector<int> ways(n, 0);
-
-       
-        set<pair<long long, int>> st;
-        dist[0] = 0;
-        ways[0] = 1;
-        st.insert({0, 0});
-
-        while (!st.empty()) {
-            auto [currTime, node] = *st.begin();
-            st.erase(st.begin());
-
-            for (auto [nextNode, edgeTime] : adj[node]) {
-                long long newTime = currTime + edgeTime;
-
-              
-                if (newTime < dist[nextNode]) {
-                    st.erase({dist[nextNode], nextNode}); 
-                    dist[nextNode] = newTime;
-                    ways[nextNode] = ways[node]; 
-                    st.insert({newTime, nextNode});
-                }
-               
-                else if (newTime == dist[nextNode]) {
-                    ways[nextNode] = (ways[nextNode] + ways[node]) % MOD;
-                }
-            }
-        }
-
-        return ways[n - 1]; 
+        return solve(adj, dist, n);
     }
 };
