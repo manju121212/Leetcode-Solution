@@ -22,7 +22,26 @@ public:
         
         int n = questions.size();
         vector<long long>dp(n,-1);
-        return solve(0,questions,dp);
+        //return solve(0,questions,dp);
+
+        for(int i = n-1;i>=0;i--){
+
+            int nextIndex  = i +  questions[i][1]  + 1;
+            long long take = questions[i][0];
+            if(nextIndex<n){
+                take += dp[nextIndex];
+            }
+            long long  nottake = 0;
+            if(i+1<n){
+                nottake = dp[i+1];
+            }
+           
+
+            dp[i] = max(take , nottake);
+
+        }
+
+        return dp[0];
 
         
     }
