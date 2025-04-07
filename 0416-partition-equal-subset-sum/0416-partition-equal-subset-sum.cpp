@@ -44,8 +44,30 @@ public:
         }
 
         int target = totalsum/2;
-         vector<vector<int>>dp(n,vector<int>(target+1,-1));
+         vector<vector<bool>>dp(n,vector<bool>(target+1,false));
 
-        return solve(0,nums,target,dp);
+        //return solve(0,nums,target,dp);
+        
+        for(int i = 0;i<n;i++){
+            dp[i][0] = true;
+        }
+
+     
+
+        for(int i = 1;i<n;i++){
+                
+                for(int j = 1;j<=target;j++){
+                          bool  take = false;
+                          if(j>=nums[i]){
+                            take =  dp[i-1][j-nums[i]];
+                          }
+                         
+                          bool nottake = dp[i-1][j];  
+
+                          dp[i][j] = take |nottake;
+                }
+        }
+
+        return dp[n-1][target];
     }
 };
