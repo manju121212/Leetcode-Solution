@@ -4,15 +4,8 @@ public:
         int res = 0;
         int n = nums.size();
         for(int i = 0;i<n;i++){
-            int num = nums[i];
-            int count = 0;
-            while(num!=0){
-                count++;
-                num = num/10;
-
-            }
-
-            if(count % 2 == 0){
+            string temp = to_string(nums[i]);
+            if(temp.size() % 2 == 0){
                 res++;
             }
         }
