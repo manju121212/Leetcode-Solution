@@ -1,24 +1,21 @@
 class Solution {
 public:
-  typedef pair<int, pair<int, int>> P;
     int minTimeToReach(vector<vector<int>>& moveTime) {
         
        int dirs[4][2] = {{-1,0},{0,-1},{0,1},{1,0}};
        int n = moveTime.size();
        int m = moveTime[0].size();
 
-        priority_queue<P, vector<P>, greater<P>> pq;
-       
+       priority_queue<pair<int, vector<int>>, vector<pair<int, vector<int>>>, greater<pair<int, vector<int>>>> pq;
 
-        pq.push({0,{0,0}});
+
+        pq.push({0,{0,0,1}});
         vector<vector<int>>res(n,vector<int>(m,INT_MAX));
-         res[0][0] = 0;
-        
         while(!pq.empty()){
             int curr_time = pq.top().first;
-            int x = pq.top().second.first;
-            int y = pq.top().second.second;
-            
+            int x = pq.top().second[0];
+            int y = pq.top().second[1];
+            int time_count = pq.top().second[2];
             pq.pop();
       
             if(x == n-1 && y == m-1){
@@ -31,26 +28,23 @@ public:
                 int newy = y + dirs[d][1];
 
                 if(newx>=0 && newy>=0 && newx<n && newy<m){
-                     int time_count = (newx + newy)%2 == 0 ? 2 : 1;
-                   
-                   
+                    
                      int wait = max(moveTime[newx][newy] - curr_time,0);
                     
                      int finalTime = wait + curr_time +time_count;
                      
-                    
+                     int inc_count = time_count  ==2 ? 0 : 1;
                     
                      
                    
                      if(res[newx][newy] > finalTime){
-                         
+                        
                     
                         res[newx][newy] = finalTime;
-                        pq.push({finalTime,{newx,newy}});
+                        pq.push({finalTime,{newx,newy,inc_count+1}});
                      }
                 }
             }
-            
             
         }
 
