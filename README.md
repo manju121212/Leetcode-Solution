@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0275-h-index-ii) |
 | [0368-largest-divisible-subset](https://github.com/manju121212/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/manju121212/Leetcode-Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/manju121212/Leetcode-Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0275-h-index-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/manju121212/Leetcode-Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manju121212/Leetcode-Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
