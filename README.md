@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/manju121212/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/manju121212/Leetcode-Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manju121212/Leetcode-Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/manju121212/Leetcode-Solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
