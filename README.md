@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/manju121212/Leetcode-Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manju121212/Leetcode-Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/manju121212/Leetcode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0275-h-index-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/manju121212/Leetcode-Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manju121212/Leetcode-Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/manju121212/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/manju121212/Leetcode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manju121212/Leetcode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Enumeration
