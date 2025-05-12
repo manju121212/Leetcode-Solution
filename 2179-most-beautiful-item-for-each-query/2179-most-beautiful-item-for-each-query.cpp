@@ -8,12 +8,11 @@ public:
         for(int i = 0; i < items.size(); i++) {
             int a = items[i][0];
             int b = items[i][1];
-            mpp[a] = max(mpp[a],b);
+            v.push_back({a,b});
+           
         }
 
-        for(auto it : mpp){
-            v.push_back({it.first, it.second});
-        }
+      
 
         sort(v.begin(), v.end());
 
