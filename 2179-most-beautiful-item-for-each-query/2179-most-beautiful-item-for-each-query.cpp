@@ -1,36 +1,36 @@
 class Solution {
 public:
     vector<int> maximumBeauty(vector<vector<int>>& items, vector<int>& queries) {
-        unordered_map<int,int> mpp;
+        
+        vector<pair<int,int>>v;
+        unordered_map<int,int>mpp;
 
-        // Step 1: Keep only max beauty for each price
-        for(auto& item : items){
-            int price = item[0];
-            int beauty = item[1];
-            mpp[price] = max(mpp[price], beauty);
+        for(int i = 0; i < items.size(); i++) {
+            int a = items[i][0];
+            int b = items[i][1];
+            mpp[a] = max(mpp[a],b);
         }
 
-        // Step 2: Put into a sorted vector
-        vector<pair<int,int>> v;
-        for(auto& [price, beauty] : mpp){
-            v.push_back({price, beauty});
+        for(auto it : mpp){
+            v.push_back({it.first, it.second});
         }
+
         sort(v.begin(), v.end());
 
-        // Step 3: Make prefix max of beauty
-        for(int i = 1; i < v.size(); i++){
-            v[i].second = max(v[i].second, v[i-1].second);
+        // Make prefix max of beauty
+        for(int i = 1; i < v.size(); i++) {
+            v[i].second = max(v[i].second, v[i - 1].second);
         }
 
-        // Step 4: Answer each query
-        vector<int> res;
-        for(int q : queries){
-            auto it = upper_bound(v.begin(), v.end(), make_pair(q, INT_MAX));
-            if(it == v.begin()) {
-                res.push_back(0); // no price <= q
+        vector<int> res(queries.size(), 0);
+        for(int i = 0; i < queries.size(); i++) {
+            pair<int,int> target = {queries[i], INT_MAX}; // INT_MAX ensures proper upper_bound
+            int index = upper_bound(v.begin(), v.end(), target) - v.begin();
+
+            if(index == 0) {
+                res[i] = 0; // No item with price <= query
             } else {
-                --it;
-                res.push_back(it->second);
+                res[i] = v[index - 1].second; // Use the max beauty up to index - 1
             }
         }
 
