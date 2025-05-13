@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manju121212/Leetcode-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manju121212/Leetcode-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/manju121212/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/manju121212/Leetcode-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Tree
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/manju121212/Leetcode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/manju121212/Leetcode-Solution/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/manju121212/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manju121212/Leetcode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/manju121212/Leetcode-Solution/tree/master/2262-solving-questions-with-brainpower) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
