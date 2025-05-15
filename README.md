@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manju121212/Leetcode-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manju121212/Leetcode-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manju121212/Leetcode-Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/manju121212/Leetcode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/manju121212/Leetcode-Solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manju121212/Leetcode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/manju121212/Leetcode-Solution/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
