@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/manju121212/Leetcode-Solution/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manju121212/Leetcode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2050-count-good-numbers](https://github.com/manju121212/Leetcode-Solution/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manju121212/Leetcode-Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/manju121212/Leetcode-Solution/tree/master/2649-count-total-number-of-colored-cells) |
@@ -318,4 +319,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/manju121212/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/manju121212/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manju121212/Leetcode-Solution/tree/master/0326-power-of-three) |
+| [2050-count-good-numbers](https://github.com/manju121212/Leetcode-Solution/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
