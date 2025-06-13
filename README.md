@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manju121212/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Array
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manju121212/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/manju121212/Leetcode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2915-count-of-interesting-subarrays) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
