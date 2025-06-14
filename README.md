@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/manju121212/Leetcode-Solution/tree/master/0038-count-and-say) |
+| [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manju121212/Leetcode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/manju121212/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/manju121212/Leetcode-Solution/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/manju121212/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/manju121212/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/manju121212/Leetcode-Solution/tree/master/0441-arranging-coins) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/manju121212/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/manju121212/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
@@ -344,7 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/manju121212/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/manju121212/Leetcode-Solution/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/manju121212/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/manju121212/Leetcode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/manju121212/Leetcode-Solution/tree/master/2050-count-good-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
