@@ -7,6 +7,14 @@ class Solution {
 public:
     vector<int> diffWaysToCompute(string expression) {
         vector<int> results;
+        if (expression.find('+') == string::npos &&
+            expression.find('-') == string::npos &&
+            expression.find('*') == string::npos) {
+            
+            // Convert the string number to int and return it as the only result
+            results.push_back(stoi(expression));
+            return results;
+        }
 
         for (int i = 0; i < expression.length(); i++) {
             char c = expression[i];
@@ -22,19 +30,19 @@ public:
 
                 // Combine the results with the operator
                 for (int l : leftResults) {
+                   
                     for (int r : rightResults) {
+                     
                         if (c == '+') results.push_back(l + r);
                         else if (c == '-') results.push_back(l - r);
                         else if (c == '*') results.push_back(l * r);
                     }
+                    
                 }
             }
         }
 
-        // Base case: if the expression contains only a number
-        if (results.empty()) {
-            results.push_back(stoi(expression));
-        }
+      
 
         return results;
     }
