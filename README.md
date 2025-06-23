@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3639-zero-array-transformation-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manju121212/Leetcode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3822-fill-a-special-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/3822-fill-a-special-grid) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/manju121212/Leetcode-Solution/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manju121212/Leetcode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/manju121212/Leetcode-Solution/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/manju121212/Leetcode-Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/manju121212/Leetcode-Solution/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/manju121212/Leetcode-Solution/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/manju121212/Leetcode-Solution/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Prefix Sum
 |  |
 | ------- |
