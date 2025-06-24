@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/manju121212/Leetcode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manju121212/Leetcode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/manju121212/Leetcode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manju121212/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
