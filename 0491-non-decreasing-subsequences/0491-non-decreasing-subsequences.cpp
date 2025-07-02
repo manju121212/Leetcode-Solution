@@ -1,23 +1,37 @@
 class Solution {
 public:
-    void solve(int index, vector<int>& nums, vector<int>& temp, set<vector<int>>& res) {
-        if (temp.size() >= 2) {
-            res.insert(temp); // set will handle duplicates
-        }
-        
-        for (int i = index; i < nums.size(); ++i) {
-            if (temp.empty() || nums[i] >= temp.back()) {
-                temp.push_back(nums[i]);
-                solve(i + 1, nums, temp, res);
-                temp.pop_back();
-            }
-        }
-    }
 
+    void solve(int index , int prev , vector<int>temp,set<vector<int>>&res,vector<int>&nums,int n){
+         if(index>=n){
+              if(temp.size()>1){
+                  res.insert(temp);
+              }
+              return;
+         }
+
+         if(temp.size() ==0 || (temp.back()<=nums[index])){
+            
+               temp.push_back(nums[index]);
+               solve(index+1,nums[index],temp,res,nums,n);
+               temp.pop_back();
+               
+               
+         }
+         
+       
+       
+         solve(index+1,prev,temp,res,nums,n);
+    }
     vector<vector<int>> findSubsequences(vector<int>& nums) {
-        set<vector<int>> res;
-        vector<int> temp;
-        solve(0, nums, temp, res);
-        return vector<vector<int>>(res.begin(), res.end());
+        
+        set<vector<int>>res;
+        vector<int>temp;
+        int n = nums.size();
+        
+
+        solve(0,-1,temp,res,nums,n);
+        //sort(res.begin(),res.end());
+         return vector<vector<int>>(res.begin(), res.end());
+        
     }
 };
