@@ -9,7 +9,7 @@ public:
             }
         }
 
-        // Correct: prefix[i] = number of plates between candle i and candle i-1
+       
         vector<int> prefix(candles_pos.size(), 0);
         for (int i = 1; i < candles_pos.size(); i++) {
             int plates_between = candles_pos[i] - candles_pos[i - 1] - 1;
@@ -21,13 +21,13 @@ public:
             int u = queries[i][0];
             int v = queries[i][1];
 
-            // Find first candle ≥ u
+          
             int index1 = lower_bound(candles_pos.begin(), candles_pos.end(), u) - candles_pos.begin();
-            // Find last candle ≤ v
-            int index2 = upper_bound(candles_pos.begin(), candles_pos.end(), v) - candles_pos.begin() - 1;
+           
+            int index2 = upper_bound(candles_pos.begin(), candles_pos.end(), v) - candles_pos.begin()-1 ;
 
             int final_ans = 0;
-            if (index1 < candles_pos.size() && index2 >= 0 && index1 < index2) {
+            if (index1 < candles_pos.size() && index2<candles_pos.size() && index1<index2) {
                 final_ans = prefix[index2] - prefix[index1];
             }
 
