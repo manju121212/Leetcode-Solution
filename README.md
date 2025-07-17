@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manju121212/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/manju121212/Leetcode-Solution/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/manju121212/Leetcode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/manju121212/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/manju121212/Leetcode-Solution/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2165-plates-between-candles](https://github.com/manju121212/Leetcode-Solution/tree/master/2165-plates-between-candles) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/manju121212/Leetcode-Solution/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2915-count-of-interesting-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3639-zero-array-transformation-i) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/manju121212/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/manju121212/Leetcode-Solution/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/manju121212/Leetcode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/manju121212/Leetcode-Solution/tree/master/3321-type-of-triangle) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manju121212/Leetcode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
