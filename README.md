@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manju121212/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/manju121212/Leetcode-Solution/tree/master/0038-count-and-say) |
 | [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/manju121212/Leetcode-Solution/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manju121212/Leetcode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/manju121212/Leetcode-Solution/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/manju121212/Leetcode-Solution/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manju121212/Leetcode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0947-online-election](https://github.com/manju121212/Leetcode-Solution/tree/master/0947-online-election) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -446,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
