@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/manju121212/Leetcode-Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manju121212/Leetcode-Solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manju121212/Leetcode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/manju121212/Leetcode-Solution/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/manju121212/Leetcode-Solution/tree/master/1656-count-good-triplets) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1500-count-largest-group](https://github.com/manju121212/Leetcode-Solution/tree/master/1500-count-largest-group) |
 | [2107-find-unique-binary-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/manju121212/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0436-find-right-interval](https://github.com/manju121212/Leetcode-Solution/tree/master/0436-find-right-interval) |
 | [0594-longest-harmonious-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/manju121212/Leetcode-Solution/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manju121212/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
