@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manju121212/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/manju121212/Leetcode-Solution/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manju121212/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manju121212/Leetcode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/manju121212/Leetcode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/manju121212/Leetcode-Solution/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/manju121212/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/manju121212/Leetcode-Solution/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/manju121212/Leetcode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manju121212/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
