@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1762-furthest-building-you-can-reach](https://github.com/manju121212/Leetcode-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/manju121212/Leetcode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
 | [2048-build-array-from-permutation](https://github.com/manju121212/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/manju121212/Leetcode-Solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/manju121212/Leetcode-Solution/tree/master/1762-furthest-building-you-can-reach) |
+| [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manju121212/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
