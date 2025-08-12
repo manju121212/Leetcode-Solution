@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2543-most-popular-video-creator](https://github.com/manju121212/Leetcode-Solution/tree/master/2543-most-popular-video-creator) |
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/manju121212/Leetcode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/manju121212/Leetcode-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/manju121212/Leetcode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manju121212/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/manju121212/Leetcode-Solution/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/manju121212/Leetcode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/manju121212/Leetcode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Matrix
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2543-most-popular-video-creator](https://github.com/manju121212/Leetcode-Solution/tree/master/2543-most-popular-video-creator) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/manju121212/Leetcode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manju121212/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
