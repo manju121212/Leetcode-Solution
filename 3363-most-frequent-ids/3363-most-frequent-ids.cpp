@@ -15,16 +15,10 @@ public:
             // update current frequency
             mpp[e] += f;
 
-            // if first time, just push
-            if(!vis[e]){
+           
                 pq.push({mpp[e], e});
-                vis[e] = true;
-            }
-            else {
-                // push updated pair
-                pq.push({mpp[e], e});
-            }
-
+          
+           
             // lazy removal of outdated tops
             while(!pq.empty()){
                 auto topPair = pq.top();
