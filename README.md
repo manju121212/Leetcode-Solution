@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/manju121212/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/manju121212/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/manju121212/Leetcode-Solution/tree/master/0441-arranging-coins) |
+| [0867-new-21-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0867-new-21-game) |
 | [0912-random-pick-with-weight](https://github.com/manju121212/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/manju121212/Leetcode-Solution/tree/master/1500-count-largest-group) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/manju121212/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0526-beautiful-arrangement](https://github.com/manju121212/Leetcode-Solution/tree/master/0526-beautiful-arrangement) |
+| [0867-new-21-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0867-new-21-game) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/manju121212/Leetcode-Solution/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -505,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3363-most-frequent-ids](https://github.com/manju121212/Leetcode-Solution/tree/master/3363-most-frequent-ids) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
