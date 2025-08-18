@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/manju121212/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/manju121212/Leetcode-Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/manju121212/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/manju121212/Leetcode-Solution/tree/master/0436-find-right-interval) |
+| [0455-assign-cookies](https://github.com/manju121212/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/manju121212/Leetcode-Solution/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/manju121212/Leetcode-Solution/tree/master/0526-beautiful-arrangement) |
 | [0594-longest-harmonious-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/manju121212/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/manju121212/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/manju121212/Leetcode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/manju121212/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/manju121212/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0436-find-right-interval](https://github.com/manju121212/Leetcode-Solution/tree/master/0436-find-right-interval) |
+| [0455-assign-cookies](https://github.com/manju121212/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
