@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/manju121212/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0947-online-election](https://github.com/manju121212/Leetcode-Solution/tree/master/0947-online-election) |
+| [0954-maximum-sum-circular-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/manju121212/Leetcode-Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/manju121212/Leetcode-Solution/tree/master/1293-three-consecutive-odds) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0954-maximum-sum-circular-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [3822-fill-a-special-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/3822-fill-a-special-grid) |
 ## Math
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manju121212/Leetcode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/manju121212/Leetcode-Solution/tree/master/2262-solving-questions-with-brainpower) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/manju121212/Leetcode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Graph
@@ -516,4 +520,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0867-new-21-game) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
