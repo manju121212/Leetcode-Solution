@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/manju121212/Leetcode-Solution/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/manju121212/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/manju121212/Leetcode-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/manju121212/Leetcode-Solution/tree/master/3321-type-of-triangle) |
 | [3363-most-frequent-ids](https://github.com/manju121212/Leetcode-Solution/tree/master/3363-most-frequent-ids) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
