@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/manju121212/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/manju121212/Leetcode-Solution/tree/master/0455-assign-cookies) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/manju121212/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/manju121212/Leetcode-Solution/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/manju121212/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/manju121212/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/manju121212/Leetcode-Solution/tree/master/0118-pascals-triangle) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/manju121212/Leetcode-Solution/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/manju121212/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
