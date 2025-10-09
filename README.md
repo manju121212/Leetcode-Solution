@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/manju121212/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/manju121212/Leetcode-Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1121-partition-array-for-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1121-partition-array-for-maximum-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/manju121212/Leetcode-Solution/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0967-minimum-falling-path-sum) |
+| [1121-partition-array-for-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1121-partition-array-for-maximum-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manju121212/Leetcode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/manju121212/Leetcode-Solution/tree/master/2262-solving-questions-with-brainpower) |
