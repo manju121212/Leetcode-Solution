@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/manju121212/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/manju121212/Leetcode-Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1121-partition-array-for-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1121-partition-array-for-maximum-sum) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/manju121212/Leetcode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/manju121212/Leetcode-Solution/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/manju121212/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/manju121212/Leetcode-Solution/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/manju121212/Leetcode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manju121212/Leetcode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/manju121212/Leetcode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/manju121212/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/manju121212/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0967-minimum-falling-path-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0967-minimum-falling-path-sum) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/manju121212/Leetcode-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/manju121212/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
