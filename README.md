@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/manju121212/Leetcode-Solution/tree/master/0940-fruit-into-baskets) |
 | [0947-online-election](https://github.com/manju121212/Leetcode-Solution/tree/master/0947-online-election) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/manju121212/Leetcode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manju121212/Leetcode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/manju121212/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/manju121212/Leetcode-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/manju121212/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/manju121212/Leetcode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manju121212/Leetcode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/manju121212/Leetcode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/manju121212/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/manju121212/Leetcode-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/manju121212/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/manju121212/Leetcode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/manju121212/Leetcode-Solution/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manju121212/Leetcode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/manju121212/Leetcode-Solution/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/manju121212/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/manju121212/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/manju121212/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/manju121212/Leetcode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manju121212/Leetcode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2793-count-the-number-of-complete-components](https://github.com/manju121212/Leetcode-Solution/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
