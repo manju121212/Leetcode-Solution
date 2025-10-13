@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manju121212/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [4055-longest-balanced-substring-i](https://github.com/manju121212/Leetcode-Solution/tree/master/4055-longest-balanced-substring-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manju121212/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/manju121212/Leetcode-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [4055-longest-balanced-substring-i](https://github.com/manju121212/Leetcode-Solution/tree/master/4055-longest-balanced-substring-i) |
 ## Tree
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [4055-longest-balanced-substring-i](https://github.com/manju121212/Leetcode-Solution/tree/master/4055-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/manju121212/Leetcode-Solution/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/manju121212/Leetcode-Solution/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [4055-longest-balanced-substring-i](https://github.com/manju121212/Leetcode-Solution/tree/master/4055-longest-balanced-substring-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
