@@ -3,7 +3,7 @@ public:
     int leastInterval(vector<char>& tasks, int n) {
         unordered_map<char, int> mpp;
         int count = 0;
-        priority_queue<pair<int, char>> pq;
+        priority_queue<int> pq;
         unordered_map<char, int> vis;
 
         for (char task : tasks) {
@@ -11,45 +11,38 @@ public:
         }
 
         for (auto it : mpp) {
-            pq.push({it.second, it.first});
+            pq.push(it.second);
         }
 
         int i = 0;
+        int time = 0;
         while (!pq.empty()) {
-            bool done = false;
-            vector<pair<int, char>> temp;
-
-            while (!pq.empty()) {
-                char ch = pq.top().second;
-                int freq = pq.top().first;
-                pq.pop();
-
-                if (vis.find(ch) == vis.end() || i - vis[ch] > n) {
-                    // Task can be scheduled
-                    freq--;
-                    vis[ch] = i;
-                    if (freq > 0) {
-                        temp.push_back({freq, ch});
-                    }
-                    done = true;
-                    break;
-                } else {
-                    // Cannot schedule now
-                    temp.push_back({freq, ch});
+                vector<int>temp;
+                for(int i = 1;i<=n+1;i++){
+                       
+                       if(!pq.empty()){
+                           int freq = pq.top();
+                           pq.pop();
+                           freq--;
+                           temp.push_back(freq);
+                       }
                 }
-            }
 
-            // Push back all remaining tasks into pq
-            for (auto p : temp) {
-                pq.push(p);
-            }
 
-            // If a task was done, count it
-            // If not, CPU is idle for this interval
-            count++;
-            i++;
+                for(auto it : temp){
+                      if(it>0){
+                          pq.push(it);
+                      }
+                }
+
+                if(pq.empty()){
+                      time +=temp.size();
+                }
+                else{
+                      time +=n+1;
+                }
         }
 
-        return count;
+        return time;
     }
 };
