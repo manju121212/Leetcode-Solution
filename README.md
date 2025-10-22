@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/manju121212/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0947-online-election](https://github.com/manju121212/Leetcode-Solution/tree/master/0947-online-election) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/manju121212/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/manju121212/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/manju121212/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/manju121212/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/manju121212/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/manju121212/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/manju121212/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/manju121212/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -623,4 +627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/manju121212/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
