@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/manju121212/Leetcode-Solution/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/manju121212/Leetcode-Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/manju121212/Leetcode-Solution/tree/master/1762-furthest-building-you-can-reach) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/manju121212/Leetcode-Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0890-lemonade-change](https://github.com/manju121212/Leetcode-Solution/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/manju121212/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
