@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/manju121212/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/manju121212/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/manju121212/Leetcode-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/manju121212/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/manju121212/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/manju121212/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/manju121212/Leetcode-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/manju121212/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/manju121212/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/manju121212/Leetcode-Solution/tree/master/0526-beautiful-arrangement) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/manju121212/Leetcode-Solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/manju121212/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/manju121212/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/manju121212/Leetcode-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/manju121212/Leetcode-Solution/tree/master/0871-keys-and-rooms) |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manju121212/Leetcode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -614,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1762-furthest-building-you-can-reach](https://github.com/manju121212/Leetcode-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
