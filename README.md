@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/manju121212/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
+| [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/manju121212/Leetcode-Solution/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/manju121212/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/manju121212/Leetcode-Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/manju121212/Leetcode-Solution/tree/master/0890-lemonade-change) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/manju121212/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/manju121212/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/manju121212/Leetcode-Solution/tree/master/0820-find-eventual-safe-states) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/manju121212/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/manju121212/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/manju121212/Leetcode-Solution/tree/master/0820-find-eventual-safe-states) |
@@ -560,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/manju121212/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/manju121212/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/manju121212/Leetcode-Solution/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/manju121212/Leetcode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manju121212/Leetcode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -584,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
