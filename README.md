@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manju121212/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/manju121212/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/manju121212/Leetcode-Solution/tree/master/0051-n-queens) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manju121212/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/manju121212/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0275-h-index-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/manju121212/Leetcode-Solution/tree/master/0278-first-bad-version) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manju121212/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0954-maximum-sum-circular-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
