@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/manju121212/Leetcode-Solution/tree/master/3321-type-of-triangle) |
 | [3363-most-frequent-ids](https://github.com/manju121212/Leetcode-Solution/tree/master/3363-most-frequent-ids) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manju121212/Leetcode-Solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/manju121212/Leetcode-Solution/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/manju121212/Leetcode-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manju121212/Leetcode-Solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/manju121212/Leetcode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/manju121212/Leetcode-Solution/tree/master/3321-type-of-triangle) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manju121212/Leetcode-Solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3830-find-closest-person](https://github.com/manju121212/Leetcode-Solution/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manju121212/Leetcode-Solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Randomized
 |  |
 | ------- |
@@ -718,4 +721,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/manju121212/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/manju121212/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/manju121212/Leetcode-Solution/tree/master/2227-sum-of-subarray-ranges) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manju121212/Leetcode-Solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
