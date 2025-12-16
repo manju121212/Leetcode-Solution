@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/manju121212/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/manju121212/Leetcode-Solution/tree/master/0207-course-schedule) |
 | [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/manju121212/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/manju121212/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/manju121212/Leetcode-Solution/tree/master/0207-course-schedule) |
 | [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/manju121212/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/manju121212/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/manju121212/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
