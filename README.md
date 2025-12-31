@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manju121212/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/manju121212/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/manju121212/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/manju121212/Leetcode-Solution/tree/master/0051-n-queens) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/manju121212/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/manju121212/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/manju121212/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/manju121212/Leetcode-Solution/tree/master/0455-assign-cookies) |
