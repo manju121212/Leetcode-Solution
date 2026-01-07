@@ -1,32 +1,35 @@
 class Solution {
 public:
-    long long total = 0;
-    long long ans = 0;
+    long long maxi = 0;
 
    
-    long long findTotal(TreeNode* root){
-        if(!root) return 0;
-        return root->val + findTotal(root->left) + findTotal(root->right);
+    void solve(TreeNode* root , long long &sum){
+        if(root == NULL) return ;
+        solve(root->left , sum);
+        sum += root->val;
+        solve(root->right , sum);
     }
 
    
-    long long solve(TreeNode* root){
-        if(!root) return 0;
+    long long solve1(TreeNode* root , long long totalsum){
+        if(root == NULL) return 0;
 
-        long long left = solve(root->left);
-        long long right = solve(root->right);
+        long long left = solve1(root->left, totalsum);
+        long long right = solve1(root->right, totalsum);
 
         long long subsum = left + right + root->val;
 
-        ans = max(ans, subsum * (total - subsum));
+        maxi = max(maxi, subsum * (totalsum - subsum));
 
         return subsum;
     }
 
     int maxProduct(TreeNode* root) {
-        total = findTotal(root);
-        solve(root);
+        long long totalsum = 0;
+        solve(root, totalsum);
 
-        return ans % 1000000007;
+        solve1(root, totalsum);
+
+        return maxi % 1000000007;
     }
 };
