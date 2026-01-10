@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/manju121212/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/manju121212/Leetcode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/manju121212/Leetcode-Solution/tree/master/0800-letter-case-permutation) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/manju121212/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/manju121212/Leetcode-Solution/tree/master/0526-beautiful-arrangement) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/manju121212/Leetcode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
