@@ -1,91 +1,68 @@
 class Solution {
 public:
-    #define P pair<int, int>
 
-  
-    void dijkstra(int n, unordered_map<int, vector<P>>& adj, vector<int>& result, int S) {
-       
-        for(int i=0;i<n;i++){
-          result[i]=INT_MAX;
-        }
+    int solve(int node, int cost,
+              unordered_map<int, list<pair<int,int>>>& mpp,
+              unordered_map<int,int>& best, int &distanceThreshold,
+              unordered_set<int>& counted) {
 
-        set<pair<int,int>>st;
-        result[S] = 0;
-        st.insert({0,S});
+        int res = 0;
 
-       while(!st.empty()){
+        for (auto &it : mpp[node]) {
+            int nxt = it.first;
+            int w   = it.second;
+            int newCost = cost + w;
 
-            auto top= *(st.begin());
-            int distance=top.first;
-            int node=top.second;
-            st.erase(st.begin());
+            if (newCost > distanceThreshold) continue;
 
-            for(auto neighbour: adj[node]){
-            
-                if(result[node]+ neighbour.second < result[neighbour.first]){
-                
-                 auto record =  st.find(make_pair(result[neighbour.first],neighbour.first));
-                
-                    if(record!=st.end()){
-                       st.erase(record);
-                    }
-                
-                    result[neighbour.first]=result[node]+ neighbour.second;
-                
-                    st.insert(make_pair(  result[neighbour.first],neighbour.first));
+            // Only proceed if this path is better
+            if (!best.count(nxt) || newCost < best[nxt]) {
+
+                best[nxt] = newCost;
+
+                // Count this city only once
+                if (!counted.count(nxt)) {
+                    counted.insert(nxt);
+                    res += 1;
                 }
-         }
-    }
-            
-       }
 
-    
-    
-
-    int getCityWithFewestReachable(int n, const vector<vector<int>>& shortestPathMatrix, int distanceThreshold) {
-        int cityWithFewestReachable = -1;
-        int fewestReachableCount = INT_MAX;
-
-       
-        for (int i = 0; i < n; i++) {
-            int reachableCount = 0;
-            for (int j = 0; j < n; j++) {
-                if (i != j && shortestPathMatrix[i][j] <= distanceThreshold) {
-                    reachableCount++;
-                }
-            }
-
-            if (reachableCount <= fewestReachableCount) {
-                fewestReachableCount = reachableCount;
-                cityWithFewestReachable = i;
+                res += solve(nxt, newCost, mpp, best, distanceThreshold, counted);
             }
         }
-        return cityWithFewestReachable;
+
+        return res;
     }
 
     int findTheCity(int n, vector<vector<int>>& edges, int distanceThreshold) {
-        unordered_map<int, vector<P>> adj;
 
-        vector<vector<int>> shortestPathMatrix(n, vector<int>(n, INT_MAX));
+        unordered_map<int,list<pair<int,int>>> mpp;
+
+        for (auto &it : edges) {
+            int u = it[0], v = it[1], w = it[2];
+            mpp[u].push_back({v,w});
+            mpp[v].push_back({u,w});
+        }
+
+        int mini = INT_MAX;
+        int ele  = -1;
 
         for (int i = 0; i < n; i++) {
-            shortestPathMatrix[i][i] = 0;  // Distance to itself is zero
+
+            unordered_map<int,int> best;
+            best[i] = 0;
+
+            unordered_set<int> counted;
+
+            int ans = solve(i, 0, mpp, best, distanceThreshold, counted);
+
+            cout << i << " -> " << ans << endl;
+
+            if (ans < mini || (ans == mini && i > ele)) {
+                mini = ans;
+                ele  = i;
+            }
         }
 
-        for (const auto& edge : edges) {
-            int start = edge[0];
-            int end = edge[1];
-            int weight = edge[2];
-            adj[start].push_back({end, weight});
-            adj[end].push_back({start, weight});
-        }
-
-        // Compute shortest paths from each city using Dijkstra's algorithm
-        for (int i = 0; i < n; i++) {
-            dijkstra(n, adj, shortestPathMatrix[i], i);
-        }
-
-        return getCityWithFewestReachable(n, shortestPathMatrix, distanceThreshold);
+        return ele;
     }
 };
-
