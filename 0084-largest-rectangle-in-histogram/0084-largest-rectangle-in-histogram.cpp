@@ -42,7 +42,7 @@ public:
         
         int area=INT_MIN;
         for(int i=0;i<heights.size();i++){
-            // height is constant so no need to find put direct value as given
+       
             int length=heights[i];
            
             
