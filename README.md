@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manju121212/Leetcode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/manju121212/Leetcode-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/manju121212/Leetcode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manju121212/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2165-plates-between-candles](https://github.com/manju121212/Leetcode-Solution/tree/master/2165-plates-between-candles) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/manju121212/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/manju121212/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/manju121212/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/manju121212/Leetcode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/manju121212/Leetcode-Solution/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/manju121212/Leetcode-Solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/manju121212/Leetcode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/manju121212/Leetcode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/manju121212/Leetcode-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/manju121212/Leetcode-Solution/tree/master/2262-solving-questions-with-brainpower) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
