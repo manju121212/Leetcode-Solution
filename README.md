@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/manju121212/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/manju121212/Leetcode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/manju121212/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/manju121212/Leetcode-Solution/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0491-non-decreasing-subsequences](https://github.com/manju121212/Leetcode-Solution/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/manju121212/Leetcode-Solution/tree/master/0526-beautiful-arrangement) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/manju121212/Leetcode-Solution/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/manju121212/Leetcode-Solution/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/manju121212/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/manju121212/Leetcode-Solution/tree/master/0617-merge-two-binary-trees) |
