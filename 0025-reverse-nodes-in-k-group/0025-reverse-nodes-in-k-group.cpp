@@ -32,8 +32,8 @@ public:
           curr=forward;
           count++;   
    }  
-    if(curr!=NULL){
-        head->next=kReverse(curr,k);
+    if(forward!=NULL){
+        head->next=kReverse(forward,k);
          
     }
       return prev; 
