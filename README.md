@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/manju121212/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/manju121212/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/manju121212/Leetcode-Solution/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
@@ -804,4 +805,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/manju121212/Leetcode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/manju121212/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
