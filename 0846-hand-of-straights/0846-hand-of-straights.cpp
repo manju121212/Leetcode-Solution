@@ -2,41 +2,60 @@ class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
         
-        int n = hand.size(); 
-        map<int,int> mpp;
-        
-        if(n % groupSize != 0){
-            return false;
-        }
 
-        sort(hand.begin(), hand.end());
+          unordered_map<int,int>mpp;
+          int n = hand.size();
+          int required = n/groupSize;
+          if(n%groupSize != 0){
+               return false;
+          }
 
-        for(int i = 0; i < n; i++){
-            mpp[hand[i]]++;
-        }
-        
-        for(int i = 0; i < n; i++){
-            
-            
-            if(mpp[hand[i]] == 0)
-                continue;
+          for(auto it : hand){
+              mpp[it]++;
+          }
 
-            int len = hand[i];
-            int count = 0;
-
-           
-            while(count < groupSize){
+          int i = 0;
+          int count = 0;
+          sort(hand.begin(),hand.end());
+          while(i<n){
                 
-                if(mpp[len] == 0){
-                    return false;  
+                if(mpp.find(hand[i]) != mpp.end()){
+                      int temp = hand[i];
+                      int tempSize = groupSize-1;
+                      bool flag = true;
+                      mpp[temp]--;
+                      if(mpp[temp] == 0){
+                         mpp.erase(temp);
+                      }
+
+                      while(tempSize>0){
+                           if(mpp.find(temp+1) != mpp.end()){
+                                 tempSize--;
+                                 mpp[temp+1]--;
+                                 if(mpp[temp+1] == 0){
+                                      mpp.erase(temp+1);
+                                 }
+                                 temp++;
+                                 flag = true;
+                           }
+                           else{
+                              return false;
+                              flag = false;
+                           }
+                      }
+
+                      if(flag == true){
+                           count++;
+                      }
                 }
+                else{
+                    i++;
+                }
+          }
+          if(count == required){
+               return true;
+          }
 
-                mpp[len]--;
-                len++;
-                count++;
-            }
-        }
-
-        return true;
+          return false;
     }
 };
