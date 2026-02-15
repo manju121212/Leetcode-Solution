@@ -32,11 +32,41 @@ public:
     
     
     
-    int minSideJumps(vector<int>& obstacles) {
-        int n  = obstacles.size()-1;
-        vector<vector<int>>dp(4,vector<int>(obstacles.size(),-1));
-        return solve(obstacles,2,0,n,dp );
+    int minSideJumps(vector<int>& obs) {
+        int n  = obs.size()-1;
+        vector<vector<int>>dp(4,vector<int>(obs.size(),1e9));
+        //return solve(obstacles,2,0,n,dp );
         
+        for(int i=0;i<=3;i++){
+            dp[i][n] = 0;
+        }
         
+        for(int currpos=n-1;currpos>=0;currpos--){
+           for(int currlane = 1;currlane<=3;currlane++){
+                    if(obs[currpos+1] != currlane){
+
+                        dp[currlane][currpos]=dp[currlane][currpos+1];
+         
+                    }
+                    else{
+                       int ans = 1e9;    
+                       for(int i=1;i<=3;i++){
+           
+                           if(obs[currpos] != i && currlane!= i){
+                           ans = min(ans,1+ dp[i][currpos+1]);     
+            
+                          }
+                        
+                        }
+                         dp[currlane][currpos]=ans;
+
+                         }         
+           }
+        
+        }
+   return min(dp[2][0],min(dp[1][0]+1, dp[3][0] +1));
+          
+    
+    
     }
 };
