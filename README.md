@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/manju121212/Leetcode-Solution/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/manju121212/Leetcode-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3829-design-ride-sharing-system](https://github.com/manju121212/Leetcode-Solution/tree/master/3829-design-ride-sharing-system) |
 | [4055-longest-balanced-substring-i](https://github.com/manju121212/Leetcode-Solution/tree/master/4055-longest-balanced-substring-i) |
 ## Tree
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/manju121212/Leetcode-Solution/tree/master/0947-online-election) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2169-simple-bank-system](https://github.com/manju121212/Leetcode-Solution/tree/master/2169-simple-bank-system) |
+| [3829-design-ride-sharing-system](https://github.com/manju121212/Leetcode-Solution/tree/master/3829-design-ride-sharing-system) |
 ## Binary Tree
 |  |
 | ------- |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/manju121212/Leetcode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3829-design-ride-sharing-system](https://github.com/manju121212/Leetcode-Solution/tree/master/3829-design-ride-sharing-system) |
 ## Graph
 |  |
 | ------- |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/manju121212/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/manju121212/Leetcode-Solution/tree/master/0937-online-stock-span) |
+| [3829-design-ride-sharing-system](https://github.com/manju121212/Leetcode-Solution/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Stack
 |  |
 | ------- |
