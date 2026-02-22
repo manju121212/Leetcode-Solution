@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/manju121212/Leetcode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manju121212/Leetcode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/manju121212/Leetcode-Solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/manju121212/Leetcode-Solution/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/manju121212/Leetcode-Solution/tree/master/1656-count-good-triplets) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1121-partition-array-for-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/manju121212/Leetcode-Solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/manju121212/Leetcode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/manju121212/Leetcode-Solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manju121212/Leetcode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1824-minimum-sideway-jumps](https://github.com/manju121212/Leetcode-Solution/tree/master/1824-minimum-sideway-jumps) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/manju121212/Leetcode-Solution/tree/master/0846-hand-of-straights) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/manju121212/Leetcode-Solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
