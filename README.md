@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/manju121212/Leetcode-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manju121212/Leetcode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/manju121212/Leetcode-Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2107-find-unique-binary-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manju121212/Leetcode-Solution/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2165-plates-between-candles](https://github.com/manju121212/Leetcode-Solution/tree/master/2165-plates-between-candles) |
