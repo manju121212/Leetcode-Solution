@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/manju121212/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manju121212/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/manju121212/Leetcode-Solution/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/manju121212/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/manju121212/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/manju121212/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/manju121212/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/manju121212/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0045-jump-game-ii) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manju121212/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0140-word-break-ii) |
 ## Geometry
 |  |
