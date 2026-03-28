@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manju121212/Leetcode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3822-fill-a-special-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/3822-fill-a-special-grid) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/manju121212/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/manju121212/Leetcode-Solution/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Hash Table
 |  |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/manju121212/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/manju121212/Leetcode-Solution/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Prefix Sum
 |  |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/manju121212/Leetcode-Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/manju121212/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Queue
 |  |
 | ------- |
