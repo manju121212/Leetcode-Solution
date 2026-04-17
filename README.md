@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/manju121212/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manju121212/Leetcode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3822-fill-a-special-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/3822-fill-a-special-grid) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/manju121212/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/manju121212/Leetcode-Solution/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/manju121212/Leetcode-Solution/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/manju121212/Leetcode-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3829-design-ride-sharing-system](https://github.com/manju121212/Leetcode-Solution/tree/master/3829-design-ride-sharing-system) |
 | [3889-mirror-frequency-distance](https://github.com/manju121212/Leetcode-Solution/tree/master/3889-mirror-frequency-distance) |
 | [4055-longest-balanced-substring-i](https://github.com/manju121212/Leetcode-Solution/tree/master/4055-longest-balanced-substring-i) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/manju121212/Leetcode-Solution/tree/master/3321-type-of-triangle) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/manju121212/Leetcode-Solution/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3830-find-closest-person](https://github.com/manju121212/Leetcode-Solution/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
