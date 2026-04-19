@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/manju121212/Leetcode-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1824-minimum-sideway-jumps](https://github.com/manju121212/Leetcode-Solution/tree/master/1824-minimum-sideway-jumps) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/manju121212/Leetcode-Solution/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/manju121212/Leetcode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/manju121212/Leetcode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manju121212/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/manju121212/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/manju121212/Leetcode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manju121212/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2165-plates-between-candles](https://github.com/manju121212/Leetcode-Solution/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/manju121212/Leetcode-Solution/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/manju121212/Leetcode-Solution/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/manju121212/Leetcode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/manju121212/Leetcode-Solution/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2320-find-all-k-distant-indices-in-an-array) |
