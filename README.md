@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/manju121212/Leetcode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2615-sum-of-distances](https://github.com/manju121212/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/manju121212/Leetcode-Solution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2543-most-popular-video-creator](https://github.com/manju121212/Leetcode-Solution/tree/master/2543-most-popular-video-creator) |
+| [2615-sum-of-distances](https://github.com/manju121212/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2165-plates-between-candles](https://github.com/manju121212/Leetcode-Solution/tree/master/2165-plates-between-candles) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2615-sum-of-distances](https://github.com/manju121212/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/manju121212/Leetcode-Solution/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2915-count-of-interesting-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2915-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/manju121212/Leetcode-Solution/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
