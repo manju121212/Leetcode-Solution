@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/manju121212/Leetcode-Solution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manju121212/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1762-furthest-building-you-can-reach](https://github.com/manju121212/Leetcode-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1824-minimum-sideway-jumps](https://github.com/manju121212/Leetcode-Solution/tree/master/1824-minimum-sideway-jumps) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/manju121212/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/manju121212/Leetcode-Solution/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manju121212/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/manju121212/Leetcode-Solution/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1762-furthest-building-you-can-reach](https://github.com/manju121212/Leetcode-Solution/tree/master/1762-furthest-building-you-can-reach) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/manju121212/Leetcode-Solution/tree/master/0846-hand-of-straights) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manju121212/Leetcode-Solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manju121212/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
