@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/manju121212/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manju121212/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/manju121212/Leetcode-Solution/tree/master/2543-most-popular-video-creator) |
 | [2615-sum-of-distances](https://github.com/manju121212/Leetcode-Solution/tree/master/2615-sum-of-distances) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/manju121212/Leetcode-Solution/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manju121212/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/manju121212/Leetcode-Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2308-divide-array-into-equal-pairs) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manju121212/Leetcode-Solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/manju121212/Leetcode-Solution/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Queue
