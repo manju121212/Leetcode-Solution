@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manju121212/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/manju121212/Leetcode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Array
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/manju121212/Leetcode-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3639-zero-array-transformation-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manju121212/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manju121212/Leetcode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manju121212/Leetcode-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/manju121212/Leetcode-Solution/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/manju121212/Leetcode-Solution/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/manju121212/Leetcode-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manju121212/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/manju121212/Leetcode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/manju121212/Leetcode-Solution/tree/master/3321-type-of-triangle) |
 | [3531-count-covered-buildings](https://github.com/manju121212/Leetcode-Solution/tree/master/3531-count-covered-buildings) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manju121212/Leetcode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Enumeration
