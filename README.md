@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manju121212/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/manju121212/Leetcode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 ## Array
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3639-zero-array-transformation-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manju121212/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manju121212/Leetcode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3689-maximum-total-subarray-value-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3822-fill-a-special-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/3822-fill-a-special-grid) |
