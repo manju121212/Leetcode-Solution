@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manju121212/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1762-furthest-building-you-can-reach](https://github.com/manju121212/Leetcode-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1824-minimum-sideway-jumps](https://github.com/manju121212/Leetcode-Solution/tree/master/1824-minimum-sideway-jumps) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manju121212/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manju121212/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/manju121212/Leetcode-Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/manju121212/Leetcode-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1824-minimum-sideway-jumps](https://github.com/manju121212/Leetcode-Solution/tree/master/1824-minimum-sideway-jumps) |
 | [1840-maximum-building-height](https://github.com/manju121212/Leetcode-Solution/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manju121212/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/manju121212/Leetcode-Solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/manju121212/Leetcode-Solution/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/manju121212/Leetcode-Solution/tree/master/1861-rotating-the-box) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manju121212/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1840-maximum-building-height](https://github.com/manju121212/Leetcode-Solution/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manju121212/Leetcode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manju121212/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
