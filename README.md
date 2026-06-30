@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/manju121212/Leetcode-Solution/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/manju121212/Leetcode-Solution/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/manju121212/Leetcode-Solution/tree/master/1143-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/manju121212/Leetcode-Solution/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manju121212/Leetcode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/manju121212/Leetcode-Solution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/manju121212/Leetcode-Solution/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/manju121212/Leetcode-Solution/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/manju121212/Leetcode-Solution/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/manju121212/Leetcode-Solution/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manju121212/Leetcode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1871-jump-game-vii](https://github.com/manju121212/Leetcode-Solution/tree/master/1871-jump-game-vii) |
