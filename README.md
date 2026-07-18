@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/manju121212/Leetcode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manju121212/Leetcode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manju121212/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/manju121212/Leetcode-Solution/tree/master/2048-build-array-from-permutation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manju121212/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/manju121212/Leetcode-Solution/tree/master/1840-maximum-building-height) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/manju121212/Leetcode-Solution/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/manju121212/Leetcode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-count-good-numbers](https://github.com/manju121212/Leetcode-Solution/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manju121212/Leetcode-Solution/tree/master/2610-closest-prime-numbers-in-range) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/manju121212/Leetcode-Solution/tree/master/2610-closest-prime-numbers-in-range) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manju121212/Leetcode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manju121212/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
