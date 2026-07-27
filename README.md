@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/manju121212/Leetcode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manju121212/Leetcode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manju121212/Leetcode-Solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/manju121212/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/manju121212/Leetcode-Solution/tree/master/0846-hand-of-straights) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manju121212/Leetcode-Solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manju121212/Leetcode-Solution/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manju121212/Leetcode-Solution/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/manju121212/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-reduce-array-size-to-the-half](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-reduce-array-size-to-the-half) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/manju121212/Leetcode-Solution/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/manju121212/Leetcode-Solution/tree/master/1962-single-threaded-cpu) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
