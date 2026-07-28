@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/manju121212/Leetcode-Solution/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/manju121212/Leetcode-Solution/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/manju121212/Leetcode-Solution/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/manju121212/Leetcode-Solution/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/manju121212/Leetcode-Solution/tree/master/3321-type-of-triangle) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/manju121212/Leetcode-Solution/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -968,4 +970,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/manju121212/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
