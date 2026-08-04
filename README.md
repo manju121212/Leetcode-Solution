@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/manju121212/Leetcode-Solution/tree/master/3643-flip-square-submatrix-vertically) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manju121212/Leetcode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3689-maximum-total-subarray-value-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3822-fill-a-special-grid](https://github.com/manju121212/Leetcode-Solution/tree/master/3822-fill-a-special-grid) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/manju121212/Leetcode-Solution/tree/master/3583-count-special-triplets) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/manju121212/Leetcode-Solution/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3731-find-missing-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/manju121212/Leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3829-design-ride-sharing-system](https://github.com/manju121212/Leetcode-Solution/tree/master/3829-design-ride-sharing-system) |
 | [3889-mirror-frequency-distance](https://github.com/manju121212/Leetcode-Solution/tree/master/3889-mirror-frequency-distance) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/manju121212/Leetcode-Solution/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Enumeration
 |  |
