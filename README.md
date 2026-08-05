@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3889-mirror-frequency-distance](https://github.com/manju121212/Leetcode-Solution/tree/master/3889-mirror-frequency-distance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4055-longest-balanced-substring-i](https://github.com/manju121212/Leetcode-Solution/tree/master/4055-longest-balanced-substring-i) |
 ## Backtracking
 |  |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/manju121212/Leetcode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/manju121212/Leetcode-Solution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Interactive
 |  |
 | ------- |
@@ -959,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/manju121212/Leetcode-Solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/manju121212/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/manju121212/Leetcode-Solution/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/manju121212/Leetcode-Solution/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
 | ------- |
