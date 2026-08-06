@@ -1,5 +1,10 @@
 class Solution {
 public:
+    int numEnclaves(vector<vector<int>>& grid) {
+        
+    }
+};class Solution {
+public:
     int dir[4][2] = {{0,1},{1,0},{-1,0},{0,-1}};
     void solve(int x , int y ,  vector<vector<bool>>&vis,vector<vector<int>>& grid){
           if(x<0 || y<0 || x>=grid.size() || y>=grid[0].size() || vis[x][y] == true || grid[x][y]==0){
