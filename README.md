@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manju121212/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/manju121212/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/manju121212/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/manju121212/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
@@ -991,4 +994,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/manju121212/Leetcode-Solution/tree/master/0207-course-schedule) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
