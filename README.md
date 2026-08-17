@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/manju121212/Leetcode-Solution/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manju121212/Leetcode-Solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/manju121212/Leetcode-Solution/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1563-stone-game-v](https://github.com/manju121212/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/manju121212/Leetcode-Solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/manju121212/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/manju121212/Leetcode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/manju121212/Leetcode-Solution/tree/master/1500-count-largest-group) |
+| [1563-stone-game-v](https://github.com/manju121212/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/manju121212/Leetcode-Solution/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/manju121212/Leetcode-Solution/tree/master/1840-maximum-building-height) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/manju121212/Leetcode-Solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/manju121212/Leetcode-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/manju121212/Leetcode-Solution/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/manju121212/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/manju121212/Leetcode-Solution/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manju121212/Leetcode-Solution/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1824-minimum-sideway-jumps](https://github.com/manju121212/Leetcode-Solution/tree/master/1824-minimum-sideway-jumps) |
@@ -1010,4 +1013,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manju121212/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/manju121212/Leetcode-Solution/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
