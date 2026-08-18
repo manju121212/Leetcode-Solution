@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manju121212/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manju121212/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/manju121212/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/manju121212/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/manju121212/Leetcode-Solution/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/manju121212/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/manju121212/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/manju121212/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0053-maximum-subarray) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manju121212/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/manju121212/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0055-jump-game) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/manju121212/Leetcode-Solution/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/manju121212/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manju121212/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/manju121212/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/manju121212/Leetcode-Solution/tree/master/0455-assign-cookies) |
@@ -944,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manju121212/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manju121212/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/manju121212/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
