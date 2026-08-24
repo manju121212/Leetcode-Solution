@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manju121212/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/manju121212/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/manju121212/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/manju121212/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0140-word-break-ii) |
 | [0347-top-k-frequent-elements](https://github.com/manju121212/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/manju121212/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manju121212/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/manju121212/Leetcode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/manju121212/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/manju121212/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
 |  |
