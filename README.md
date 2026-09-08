@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/manju121212/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
+| [0402-remove-k-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/manju121212/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/manju121212/Leetcode-Solution/tree/master/0449-serialize-and-deserialize-bst) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/manju121212/Leetcode-Solution/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/manju121212/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/manju121212/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/manju121212/Leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/manju121212/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/manju121212/Leetcode-Solution/tree/master/0937-online-stock-span) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/manju121212/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/manju121212/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/manju121212/Leetcode-Solution/tree/master/0621-task-scheduler) |
@@ -965,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/manju121212/Leetcode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manju121212/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/manju121212/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/manju121212/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/manju121212/Leetcode-Solution/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/manju121212/Leetcode-Solution/tree/master/0943-sum-of-subarray-minimums) |
