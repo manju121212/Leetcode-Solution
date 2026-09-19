@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/manju121212/Leetcode-Solution/tree/master/0867-new-21-game) |
 | [0912-random-pick-with-weight](https://github.com/manju121212/Leetcode-Solution/tree/master/0912-random-pick-with-weight) |
 | [1266-minimum-time-visiting-all-points](https://github.com/manju121212/Leetcode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/manju121212/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manju121212/Leetcode-Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/manju121212/Leetcode-Solution/tree/master/1500-count-largest-group) |
 | [1563-stone-game-v](https://github.com/manju121212/Leetcode-Solution/tree/master/1563-stone-game-v) |
@@ -988,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/manju121212/Leetcode-Solution/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/manju121212/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Graph Theory
 |  |
 | ------- |
