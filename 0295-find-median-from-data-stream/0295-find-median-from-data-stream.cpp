@@ -1,43 +1,52 @@
 class MedianFinder {
-public:
-    priority_queue<int>smaller;
-    priority_queue<int,vector<int>,greater<int>>greater;
+public: 
+    priority_queue<int>s;
+    priority_queue<int,vector<int>,greater<int>>g;
     MedianFinder() {
         
     }
     
     void addNum(int num) {
-         if(smaller.empty()){
-             smaller.push(num);
+         
+         if(s.empty()){
+              s.push(num);      
          }
-
-         if(smaller.size()>greater.size()){
-               if(smaller.top()<num){
-                    int ele = smaller.top();
-                    smaller.pop();
-                    greater.push(ele);
-                    smaller.push(num);
-               }
-               else{
-                greater.push(num);
-               }
+         else if(s.size() > g.size()){
+              
+              if(s.top() > num){
+                   int value = s.top();
+                   s.pop();
+                   g.push(value);
+                   s.push(num);
+              }
+              else{
+                 g.push(num);
+              }
          }
          else{
-             
-             if(greater.top()>num){
-                int ele = greater.top();
-                greater.pop();
-                smaller.push(ele);
-                greater.push(num);
-             }
-             else{
-                smaller.push(num);
-             }
+              
+              if(s.top() >num){
+                   s.push(num);
+              }
+              else{
+                  g.push(num);
+                  int value = g.top();
+                  g.pop();
+                  s.push(value);
+              }
          }
     }
     
     double findMedian() {
-        return double(smaller.top() + greater.top())/2.0;
+           
+           int si = s.size() + g.size();
+           if(si%2 == 0){
+                double ans = double (s.top() + g.top())/2;
+                return ans;
+           }
+           else{
+                return s.top();
+           }
     }
 };
 
